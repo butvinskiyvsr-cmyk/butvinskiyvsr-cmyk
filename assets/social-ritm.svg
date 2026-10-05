@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#0D1117"/>
+<rect x="1" y="1" width="1277" height="637" rx="24" fill="#0D1117" stroke="#2B3645"/>
+<rect x="44" y="50" width="5" height="540" rx="3" fill="#39D0C8" stroke="none"/>
+<text x="84" y="64" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="400" fill="#39D0C8">02 / PRODUCT / USER TESTING</text>
+<text x="82" y="126" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="58" font-weight="700" fill="#F0F6FC">RITM</text>
+<text x="84" y="218" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="28" font-weight="400" fill="#9DAFC2">Задачи, проекты и планирование</text>
+<polyline points="84,286 840,286" fill="none" stroke="#2B3645" stroke-width="2"/>
+<text x="84" y="322" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="400" fill="#F0F6FC">Electron / JavaScript / Node.js / PostgreSQL</text>
+<text x="84" y="520" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="18" font-weight="400" fill="#39D0C8">VLADISLAV BUTVINSKY</text>
+<text x="84" y="554" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="17" font-weight="400" fill="#9DAFC2">github.com/butvinskiyvsr-cmyk</text>
+<rect x="900" y="70" width="310" height="500" rx="18" fill="#161D27" stroke="#2B3645"/>
+<text x="938" y="104" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="15" font-weight="400" fill="#9DAFC2">PRODUCT / PORTFOLIO</text>
+<polyline points="938,154 1172,154" fill="none" stroke="#2B3645" stroke-width="1"/>
+<rect x="1007" y="277" width="16" height="16" rx="4" fill="#161D27" stroke="#39D0C8"/>
+<polyline points="1037,285 1114,285" fill="none" stroke="#39D0C8" stroke-width="4"/>
+<rect x="1007" y="315" width="16" height="16" rx="4" fill="#161D27" stroke="#39D0C8"/>
+<polyline points="1037,323 1082,323" fill="none" stroke="#39D0C8" stroke-width="4"/>
+<rect x="1007" y="353" width="16" height="16" rx="4" fill="#161D27" stroke="#39D0C8"/>
+<polyline points="1037,361 1103,361" fill="none" stroke="#39D0C8" stroke-width="4"/>
+<polyline points="938,470 1172,470" fill="none" stroke="#2B3645" stroke-width="1"/>
+<text x="938" y="500" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="14" font-weight="400" fill="#39D0C8">BUILD  /  SHIP  /  IMPROVE</text>
+</svg>

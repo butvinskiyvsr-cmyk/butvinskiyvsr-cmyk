@@ -77,8 +77,7 @@ def header():
         c.text(971,y+14,sub,15,MUTED)
     c.save('header')
 
-def icon(c,kind,col):
-    x,y=1080,106
+def icon(c,kind,col,x=1080,y=106):
     if kind=='tree':
         c.line([(x,y-28),(x,y+48)],col,3)
         for yy,xx in [(y-24,x+53),(y+13,x+74),(y+48,x+45)]:
@@ -114,10 +113,33 @@ def card(name,index,title,category,subtitle,stack,kind,col=BLUE):
     icon(c,kind,col)
     c.save(name)
 
+def social_card(name,index,title,category,subtitle,stack,kind,col=BLUE):
+    c=Canvas(1280,640)
+    c.rect((1,1,1278,638),BG,24,LINE)
+    c.rect((44,50,49,590),col,3)
+    c.text(84,64,f'{index} / {category}',20,col,mono=True)
+    c.text(82,126,title,58,bold=True)
+    c.text(84,218,subtitle,28,MUTED)
+    c.line([(84,286),(840,286)],LINE,2)
+    c.text(84,322,stack,20,WHITE,mono=True)
+    c.text(84,520,'VLADISLAV BUTVINSKY',18,TEAL,mono=True)
+    c.text(84,554,'github.com/butvinskiyvsr-cmyk',17,MUTED,mono=True)
+    c.rect((900,70,1210,570),PANEL,18,LINE)
+    c.text(938,104,'PRODUCT / PORTFOLIO',15,MUTED,mono=True)
+    c.line([(938,154),(1172,154)],LINE,1)
+    icon(c,kind,col,1010,304)
+    c.line([(938,470),(1172,470)],LINE,1)
+    c.text(938,500,'BUILD  /  SHIP  /  IMPROVE',14,col,mono=True)
+    c.save(name)
+
 if __name__ == '__main__':
     header()
     card('configscope','01','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
     card('ritm','02','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
     card('hrangor','03','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
     card('arkanov','04','Книга Арканов','DESKTOP PRODUCT','Персональная база знаний по 78 картам','Flutter / Dart / Windows','book',TEAL)
-    print('Generated 5 PNGs and 5 editable SVGs.')
+    social_card('social-configscope','01','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
+    social_card('social-ritm','02','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
+    social_card('social-hrangor','03','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
+    social_card('social-arkanov','04','Книга Арканов','DESKTOP PRODUCT','Персональная база знаний по 78 картам','Flutter / Dart / Windows','book',TEAL)
+    print('Generated 9 PNGs and 9 editable SVGs.')
