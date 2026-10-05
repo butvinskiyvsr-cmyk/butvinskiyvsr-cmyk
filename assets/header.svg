@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<rect width="1280" height="400" fill="#0D1117"/>
+<rect x="1" y="1" width="1277" height="397" rx="20" fill="#0D1117" stroke="#2B3645"/>
+<rect x="36" y="40" width="4" height="316" rx="2" fill="#58A6FF" stroke="none"/>
+<text x="68" y="46" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="400" fill="#39D0C8">VLADISLAV / BUTVINSKY</text>
+<text x="66" y="100" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="52" font-weight="700" fill="#F0F6FC">Владислав</text>
+<text x="66" y="162" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="52" font-weight="700" fill="#F0F6FC">Бутвинский</text>
+<text x="68" y="242" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="28" font-weight="400" fill="#F0F6FC">Ведущий разработчик 1С</text>
+<text x="68" y="286" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#9DAFC2">Developer Tools / Desktop Applications</text>
+<text x="68" y="342" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="18" font-weight="400" fill="#58A6FF">1C / BSL     Git / Gitea     .NET     Electron</text>
+<rect x="865" y="42" width="373" height="316" rx="16" fill="#161D27" stroke="#2B3645"/>
+<text x="895" y="70" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="16" font-weight="400" fill="#9DAFC2">FROM PROCESS TO PRODUCT</text>
+<polyline points="921,137 921,302" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<circle cx="921" cy="137" r="9" fill="#161D27" stroke="#58A6FF" stroke-width="2"/>
+<polyline points="932,137 955,137" fill="none" stroke="#58A6FF" stroke-width="2"/>
+<text x="971" y="121" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#F0F6FC">Enterprise</text>
+<text x="971" y="151" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="400" fill="#9DAFC2">1C / Integrations</text>
+<circle cx="921" cy="216" r="9" fill="#161D27" stroke="#39D0C8" stroke-width="2"/>
+<polyline points="932,216 955,216" fill="none" stroke="#39D0C8" stroke-width="2"/>
+<text x="971" y="200" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#F0F6FC">Developer tools</text>
+<text x="971" y="230" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="400" fill="#9DAFC2">Git / Metadata</text>
+<circle cx="921" cy="295" r="9" fill="#161D27" stroke="#58A6FF" stroke-width="2"/>
+<polyline points="932,295 955,295" fill="none" stroke="#58A6FF" stroke-width="2"/>
+<text x="971" y="279" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#F0F6FC">Desktop products</text>
+<text x="971" y="309" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="400" fill="#9DAFC2">Interface / Delivery</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240">
+<rect width="1280" height="240" fill="#0D1117"/>
+<rect x="1" y="1" width="1277" height="237" rx="18" fill="#161D27" stroke="#2B3645"/>
+<rect x="36" y="32" width="4" height="176" rx="2" fill="#58A6FF" stroke="none"/>
+<text x="64" y="30" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="16" font-weight="400" fill="#58A6FF">01 / DEVELOPER TOOL</text>
+<text x="62" y="65" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="42" font-weight="700" fill="#F0F6FC">ConfigScope</text>
+<text x="64" y="122" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="24" font-weight="400" fill="#9DAFC2">История изменений 1С через объекты метаданных</text>
+<polyline points="64,163 994,163" fill="none" stroke="#2B3645" stroke-width="1"/>
+<text x="64" y="185" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="18" font-weight="400" fill="#F0F6FC">C# / .NET 8 / WPF / Git / BSL</text>
+<polyline points="1030,40 1030,200" fill="none" stroke="#2B3645" stroke-width="1"/>
+<polyline points="1080,78 1080,154" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<polyline points="1080,82 1133,82" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<rect x="1124" y="73" width="18" height="18" rx="3" fill="#161D27" stroke="#58A6FF"/>
+<polyline points="1080,119 1154,119" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<rect x="1145" y="110" width="18" height="18" rx="3" fill="#161D27" stroke="#58A6FF"/>
+<polyline points="1080,154 1125,154" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<rect x="1116" y="145" width="18" height="18" rx="3" fill="#161D27" stroke="#58A6FF"/>
+<circle cx="1080" cy="62" r="9" fill="#58A6FF" stroke="none" stroke-width="2"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240">
+<rect width="1280" height="240" fill="#0D1117"/>
+<rect x="1" y="1" width="1277" height="237" rx="18" fill="#161D27" stroke="#2B3645"/>
+<rect x="36" y="32" width="4" height="176" rx="2" fill="#58A6FF" stroke="none"/>
+<text x="64" y="30" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="16" font-weight="400" fill="#58A6FF">03 / DEVELOPER TOOL</text>
+<text x="62" y="65" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="42" font-weight="700" fill="#F0F6FC">HranGor</text>
+<text x="64" y="122" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="24" font-weight="400" fill="#9DAFC2">История узлов метаданных и сверка выгрузки 1С</text>
+<polyline points="64,163 994,163" fill="none" stroke="#2B3645" stroke-width="1"/>
+<text x="64" y="185" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="18" font-weight="400" fill="#F0F6FC">TypeScript / Electron / Git / Gitea / XML</text>
+<polyline points="1030,40 1030,200" fill="none" stroke="#2B3645" stroke-width="1"/>
+<polyline points="1080,68 1080,163" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<polyline points="1080,118 1140,118 1140,82" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<circle cx="1080" cy="68" r="9" fill="#161D27" stroke="#58A6FF" stroke-width="2"/>
+<circle cx="1080" cy="163" r="9" fill="#161D27" stroke="#58A6FF" stroke-width="2"/>
+<circle cx="1140" cy="82" r="9" fill="#161D27" stroke="#58A6FF" stroke-width="2"/>
+</svg>
