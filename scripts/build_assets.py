@@ -134,12 +134,12 @@ def social_card(name,index,title,category,subtitle,stack,kind,col=BLUE):
 
 if __name__ == '__main__':
     header()
-    card('configscope','01','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
-    card('ritm','02','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
-    card('hrangor','03','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
+    card('ritm','01','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
+    card('hrangor','02','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
+    card('configscope','03','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
     card('arkanov','04','Книга Арканов','DESKTOP PRODUCT','Персональная база знаний по 78 картам','Flutter / Dart / Windows','book',TEAL)
-    social_card('social-configscope','01','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
-    social_card('social-ritm','02','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
-    social_card('social-hrangor','03','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
+    social_card('social-ritm','01','RITM','PRODUCT / USER TESTING','Задачи, проекты и планирование','Electron / JavaScript / Node.js / PostgreSQL','plan',TEAL)
+    social_card('social-hrangor','02','HranGor','DEVELOPER TOOL','История узлов метаданных и сверка выгрузки 1С','TypeScript / Electron / Git / Gitea / XML','branch')
+    social_card('social-configscope','03','ConfigScope','DEVELOPER TOOL','История изменений 1С через объекты метаданных','C# / .NET 8 / WPF / Git / BSL','tree')
     social_card('social-arkanov','04','Книга Арканов','DESKTOP PRODUCT','Персональная база знаний по 78 картам','Flutter / Dart / Windows','book',TEAL)
     print('Generated 9 PNGs and 9 editable SVGs.')

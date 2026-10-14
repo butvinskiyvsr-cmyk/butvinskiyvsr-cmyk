@@ -2,7 +2,7 @@
 <rect width="1280" height="240" fill="#0D1117"/>
 <rect x="1" y="1" width="1277" height="237" rx="18" fill="#161D27" stroke="#2B3645"/>
 <rect x="36" y="32" width="4" height="176" rx="2" fill="#58A6FF" stroke="none"/>
-<text x="64" y="30" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="16" font-weight="400" fill="#58A6FF">01 / DEVELOPER TOOL</text>
+<text x="64" y="30" dominant-baseline="text-before-edge" font-family="DejaVu Sans Mono,sans-serif" font-size="16" font-weight="400" fill="#58A6FF">03 / DEVELOPER TOOL</text>
 <text x="62" y="65" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="42" font-weight="700" fill="#F0F6FC">ConfigScope</text>
 <text x="64" y="122" dominant-baseline="text-before-edge" font-family="DejaVu Sans,sans-serif" font-size="24" font-weight="400" fill="#9DAFC2">История изменений 1С через объекты метаданных</text>
 <polyline points="64,163 994,163" fill="none" stroke="#2B3645" stroke-width="1"/>

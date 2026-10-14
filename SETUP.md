@@ -3,7 +3,7 @@
 1. На GitHub создайте **публичный** репозиторий с точным названием `butvinskiyvsr-cmyk` под своим аккаунтом `butvinskiyvsr-cmyk`.
 2. Загрузите `README.md` и всю папку `assets` из этого комплекта в корень репозитория. Не загружайте ZIP целиком как один файл.
 3. Сохраните изменения. README появится на странице вашего профиля.
-4. Закрепите `onec-change-monitor` через Customize your pins. Для RITM, HranGor и Книги Арканов позже можно сделать отдельные публичные витрины с описанием и настоящими скриншотами и закрепить их.
+4. Через Customize your pins расположите репозитории в том же порядке, что и проекты в README: `ritm-releases`, `hrangor-releases`, `onec-change-monitor`, `kniga-arkanov-releases`.
 
 Требования GitHub: имя репозитория совпадает с логином, репозиторий публичный, непустой `README.md` находится в корне.
 Источник: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
