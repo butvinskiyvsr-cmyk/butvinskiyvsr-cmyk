@@ -62,15 +62,15 @@ def header():
     c.text(66,100,'Владислав',52,bold=True)
     c.text(66,162,'Бутвинский',52,bold=True)
     c.text(68,242,'Ведущий разработчик 1С',28,WHITE)
-    c.text(68,286,'Developer Tools / Desktop Applications',22,MUTED)
+    c.text(68,286,'Desktop Products / Developer Tools',22,MUTED)
     c.text(68,342,'1C / BSL     Git / Gitea     .NET     Electron',18,BLUE,mono=True)
     # Abstract metadata / Git motif, rather than a made-up application screenshot.
     c.rect((865,42,1238,358),PANEL,16,LINE)
     c.text(895,70,'FROM PROCESS TO PRODUCT',16,MUTED,mono=True)
     c.line([(921,137),(921,302)],BLUE,3)
     for y,num,title,sub,col in [(137,'01','Enterprise','1C / Integrations',BLUE),
-                              (216,'02','Developer tools','Git / Metadata',TEAL),
-                              (295,'03','Desktop products','Interface / Delivery',BLUE)]:
+                              (216,'02','Desktop products','Interface / Delivery',TEAL),
+                              (295,'03','Developer tools','Git / Metadata',BLUE)]:
         c.circle(921,y,9,PANEL,col)
         c.line([(932,y),(955,y)],col,2)
         c.text(971,y-16,title,22,WHITE,bold=True)
